@@ -13,7 +13,7 @@ This is my Python Cybersecurity Course I am currently teaching as a student as p
   Upon running the unedited file, the student will see the following output 
   ![Image 2](https://i.imgur.com/yZcjGqg.png)
   
-#Extras 
+# Extras 
   Solved challenges are located in the 'solved' file if you're a dirty cheater.
   Class notes are located in project#.py files. class 1 corresponds to project1.py
   
